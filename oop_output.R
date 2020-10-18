@@ -4,8 +4,8 @@ library(magrittr)
 source("oop_code.R")
 ## Load any other packages that you may need to execute your code
 
-data <- read_csv("data/MIE.csv")
-x <- make_LD(data)
+longdf <- read.csv("./data/MIE.csv", stringsAsFactors = FALSE)
+x <- make_LD(longdf)
 print(class(x))
 print(x)
 
