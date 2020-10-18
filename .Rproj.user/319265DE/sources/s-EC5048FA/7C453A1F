@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599153171315.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7C453A1F",
+    "lastKnownWriteTime" : 1599418410,
+    "last_content_update" : 1599418410586,
+    "path" : "~/Desktop/YRpaper/Course/AdvancedR/Week1.R",
+    "project_path" : "Week1.R",
+    "properties" : {
+        "cursorPosition" : "132,1",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

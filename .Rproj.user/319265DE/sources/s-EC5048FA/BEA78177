@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1599363454931.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "BEA78177",
+    "lastKnownWriteTime" : 1600011325,
+    "last_content_update" : 1600011325934,
+    "path" : "/var/folders/wh/3zvb1x0s55z9wv76yknff0cw0000gn/T//RtmpeoBFuZ/evaluate.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "34,13",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

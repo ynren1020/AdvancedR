@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1602865397901.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2125342409",
+    "id" : "CE0064CE",
+    "lastKnownWriteTime" : 1602971391,
+    "last_content_update" : 1602971391429,
+    "path" : "~/Desktop/YRpaper/Course/AdvancedR/oop_code_S3.R",
+    "project_path" : "oop_code_S3.R",
+    "properties" : {
+        "cursorPosition" : "1,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
